@@ -25,6 +25,16 @@ Leitura recomendada:
 
 6) Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'. 
 
+## Semana 2 - Vetores e While
 
+Leitura Recomendada:
 
+- Como programar em C. Disponível em <http://joinville.ifsc.edu.br/~rafael.berti/Programação/Livro%20-%20ComoProgramarEmC.pdf>. Capítulo 2
 
+1) Considere o problema de calcular a média de 10 alunos de uma determinada disciplina e determinar o número de alunos que tiveram nota superior a média calculada. 
+
+2) Leia 7 valores em um vetor e dizer o total de pares.
+
+3) Faça um programa que leia um vetor de 10 posições e some todos os valores deste vetor;
+
+4) Faça um programa que leia um vetor vetor de 5 posições com o gabarito de uma prova, e outro vetor com as respostas do aluno. As respostas serão V ou F.
