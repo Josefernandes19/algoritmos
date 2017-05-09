@@ -11,7 +11,7 @@ Lembrando que a leitura da bibliografia é essencial para o desenvolvimento da d
 Leitura recomendada: 
 - C Completo e Total, SCHILDT, Herbert. Disponível na Biblioteca. Capítulo 2 (de "Os Cincos Tipos Básicos de Dados" até "Variáveis Globais"+ Tópico "Operadores") e 3 (Verdadeiro e Falso, if-else);
 
-- Como programar em C. Disponível em <http://joinville.ifsc.edu.br/~rafael.berti/Programação/Livro%20-%20ComoProgramarEmC.pdf>. Capítulo 2
+- Como programar em C. Disponível em <http://joinville.ifsc.edu.br/~rafael.berti/Programação/Livro%20-%20ComoProgramarEmC.pdf>. Capítulo 3
 
 1) Escreva um algoritmo que armazene o valor 10 em uma variável A e o valor 20 em uma variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis. 
 
