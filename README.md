@@ -37,4 +37,4 @@ Leitura Recomendada:
 
 3) Faça um programa que leia um vetor de 10 posições e some todos os valores deste vetor;
 
-4) Faça um programa que leia um vetor de 5 posições com o gabarito de uma prova, e outro vetor com as respostas do aluno. As respostas serão a, b, c, d ou e.
+4) Faça um programa que leia um vetor de 5 posições com o gabarito de uma prova, e outro vetor com as respostas do aluno. As respostas serão a, b, c, d ou e. O programa deve retornar se cada uma das respostas está certa ou não.
