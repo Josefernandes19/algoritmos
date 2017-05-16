@@ -38,3 +38,11 @@ Leitura Recomendada:
 3) Faça um programa que leia um vetor de 10 posições e some todos os valores deste vetor;
 
 4) Faça um programa que leia um vetor de 5 posições com o gabarito de uma prova, e outro vetor com as respostas do aluno. As respostas serão a, b, c, d ou e. O programa deve retornar se cada uma das respostas está certa ou não.
+
+5) Dada uma seqüência de 20 números, imprimi-la na ordem inversa à da leitura. Para isso, guarde-os em um vetor.
+
+6) Tentando descobrir se um dado era viciado, um dono de cassino o lançou 18 vezes. Dados os n resultados dos lançamentos, determinar o número de ocorrências de cada face. 
+
+7) Crie um programa em C que peça 10 números, armazene eles em um vetor e diga qual elemento é o maior, qual é o menor e quais seus valores.
+
+8) Receba dois vetores de 10 posições, e coloque a soma deles (no mesmo campo i) em um terceiro vetor.
