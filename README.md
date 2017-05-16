@@ -5,6 +5,7 @@ Olá!
 Aqui, você verá os exercícios das Monitorias, separados por semanas. Em "Wiki", verá guias rápidos sobre cada tópico, a fim de complementar a leitura do livro.
 
 Lembrando que a leitura da bibliografia é essencial para o desenvolvimento da disciplina e o aprendizado sobre os algoritmos utilizados.
+Para aprender a instalar o Netbeans e o compilador de C no Windows, assista: https://www.youtube.com/watch?v=c6SlRRZcz7E
 
 ## Semana 1
 
