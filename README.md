@@ -26,7 +26,7 @@ Leitura recomendada:
 
 6) Faça um algoritmo para ler: quantidade atual em estoque, quantidade máxima em estoque e quantidade mínima em estoque de um produto. Calcular e escrever a quantidade média ((quantidade média = quantidade máxima + quantidade mínima)/2). Se a quantidade em estoque for maior ou igual a quantidade média escrever a mensagem 'Não efetuar compra', senão escrever a mensagem 'Efetuar compra'. 
 
-## Semana 2 - Vetores e While
+## Semana 2 e 3 - Vetores e While
 
 Leitura Recomendada:
 
@@ -47,3 +47,13 @@ Leitura Recomendada:
 7) Crie um programa em C que peça 10 números, armazene eles em um vetor e diga qual elemento é o maior, qual é o menor e quais seus valores.
 
 8) Receba dois vetores de 10 posições, e coloque a soma deles (no mesmo campo i) em um terceiro vetor.
+
+## Semanas 4 e 5 - Vetores
+
+Leitura Recomendada:
+
+- Lógica de Programação, 3ª Edição. FORBELLONE, André. Disponível em: <http://www.softlog.eti.br/downloads/Livros/Lógica%20de%20Programação%20-%203a%20Edição.pdf>
+
+- Como programar em C. Disponível em <http://joinville.ifsc.edu.br/~rafael.berti/Programação/Livro%20-%20ComoProgramarEmC.pdf>. Capítulo 3
+
+Exercícios 12, 21, 30, 33, 34, do Capítulo 3 do livro "Lógica de Programação".
